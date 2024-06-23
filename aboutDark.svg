@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="1440" height="409" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient-1" x1="100%" x2="0%" y1="91.5371415%" y2="0%">
+   <stop offset="0%" stop-color="#009EBE"/>
+   <stop offset="100%" stop-color="#1EB5E0"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g fill="none" fill-rule="evenodd" id="1.00-Homepage">
+   <g fill="url(#linearGradient-1)" id="1.00-Homepage-–-0-Idle">
+    <g id="Hero">
+     <g id="waves-overlay" transform="translate(-66 326)">
+      <path d="m66,-280.63c0,0 264,-40 455,122c191,162 272,-66 418,-65c146,1 178,172 336,172c158,0 121,-233 336,-229c215,4 39,496 39,496l-1650,-158l66,-338z" fill="#000000" id="Path-2" opacity="0.2"/>
+      <path d="m20.36,-317.45c39.34,-33.46 200.36,21.55 287,198c86.64,176.45 156,111 255.64,34.45c99.64,-76.55 181.19,-52.45 297,43c91,75 158,104 272,10c114,-94 214,-133 395,65c181,198 -42.64,143.55 -42.64,143.55l-1418,-91c0,0 -85.33,-369.54 -46,-403z" fill="#000000" id="Path" opacity="0.7"/>
+      <path d="m200,11.04c0,0 138,-182 371,-91c233,91 337,-10 384,-63c47,-53 272,-262 524,-26c252,236 -78,355 -78,355l-1229,-133l28,-42z" fill="#000000" id="svg_1" opacity="0.3"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

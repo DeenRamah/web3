@@ -1,0 +1,59 @@
+[
+    {
+        "songName" : "Bitcoin Kahoot Game",
+        "songLink" : "dewaduwaniya.html",
+        "image" : "pics/2.png",
+        "artist" : "Bitcoin Nairobi",
+        "type" : "Song",
+        "year" : "2024",
+        "time" : "2.32",
+        "language" : "English-Swahili"
+    },
+    {
+        "songName" : "Linktreeapp",
+        "songLink" : "athakganin.html",
+        "image" : "pics/12.jpg",
+        "artist" : "Linktreeapp",
+        "type" : "Song",
+        "year" : "2024",
+        "time" : "2.57",
+        "language" : "Swahili - English"
+    },
+    {
+        "songName" : "Lipa Na Bitcoin",
+        "songLink" : "lihiniye.html",
+        "image" : "pics/1.png",
+        "artist" : "Lipa na Bitcoin",
+        "type" : "Song",
+        "year" : "2024",
+        "time" : "3.32",
+        "language" : "Swahili-English"
+    },{
+        "songName" : "Our Hoodies",
+        "songLink" : "awaramalwara.html",
+        "image" : "pics/111.jpg",
+        "artist" : "Lipa na Bitcoin",
+        "type" : "Song",
+        "year" : "2024",
+        "time" : "2.09",
+        "language" : "Swahili -English"
+    },{
+        "songName" : "Customized Logo",
+        "songLink" : "yashodara.html",
+        "image" : "pics/222.jpg",
+        "artist" : "Bitcoin Nairobi",
+        "type" : "Song",
+        "year" : "2024",
+        "time" : "2.48",
+        "language" : "Swahili -English"
+    },{
+        "songName" : "Our T-Shirts",
+        "songLink" : "mandarama.html",
+        "image" : "pics/122.jpg",
+        "artist" : "Bitcoin Nairobi",
+        "type" : "Song",
+        "year" : "2024",
+        "time" : "3.03",
+        "language" : "Swahili -English"
+    }
+]
